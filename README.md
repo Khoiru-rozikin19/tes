@@ -11,7 +11,7 @@ HAPPY NEWYEAR 2025
 apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubusercontent.com/Khoiru-rozikin19/tes/main/setup.sh && chmod +x setup.sh && ./setup.sh
 ````
 
-![logo](https://raw.githubusercontent.com/Arya-Blitar22/pusatA1/main/sct.png)
+![logo](https://raw.githubusercontent.com/Arya-Blitar22/pusatA1/main/sct.jpg)
 
 
 SCRIPT HAPROXY GRATIS TIDAK PERLU IJIN IP SAYANK.. DEBIAN 10 / UBUNTU 20.04 LANGSUNG INSTALL AJA!!!
